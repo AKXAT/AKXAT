@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akshat Sharma</h1>
 <h3 align="center">A underdevelopment developer from India</h3>
 
-- 🌱 I’m currently learning **Python , SQL and Data Visualization**
+- 🌱 I’m currently learning **Data Visualization**
 
 - 📝 I regularly write articles on [HashNode](https://carboncoffee.hashnode.dev/)
 
