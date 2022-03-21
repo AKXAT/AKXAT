@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/AKXAT/AKXAT/blob/AKXAT-patch-1/banner.gif?raw=true.)
+![MasterHead](https://github.com/AKXAT/AKXAT/blob/main/banner.gif?raw=true)
 
 <h1 align="center">Hi 👋, I'm Akshat Sharma</h1>
 <h3 align="center">Just a developer next door!</h3>
